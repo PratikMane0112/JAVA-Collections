@@ -1,4 +1,4 @@
-# Understanding Java Collections, Collection, and Collections Framework
+# Understanding Java Collections, Collection and Collections Framework
 
 ![java collections](https://github.com/user-attachments/assets/f2eb1c76-df97-4e8f-aa42-d74a20aab6c6)
 
