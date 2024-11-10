@@ -123,7 +123,6 @@ The interface is extended by other interfaces like `Set`, `List`, and `Queue`.
 - Each key can map to at most one value.
 - Examples: HashMap, TreeMap, LinkedHashMap.
 
-
 ## 6.Key Classes in the Collections Framework
 
 The classes which implements interfaces like `List`, `Queue` and `Set`.
