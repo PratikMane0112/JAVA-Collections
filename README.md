@@ -269,6 +269,7 @@ The Collections class consists exclusively of static methods that operate on or 
         // Output: Minimum element: 1
 ```
 
+
 ## 8.Conclusion
 
 The Java Collections Framework is a powerful and flexible tool for managing collections of objects. By understanding the Collection interface, the Collections utility class, and the various core interfaces and classes, you can effectively utilize these tools in your Java programs. This framework not only simplifies the task of managing collections but also enhances code readability and maintainability.
