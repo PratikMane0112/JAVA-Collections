@@ -101,6 +101,7 @@ The interface is extended by other interfaces like `Set`, `List`, and `Queue`.
         boolean isEmpty = collection.isEmpty();
         System.out.println("Collection is empty: " + isEmpty);
         // Output: Collection is empty: true
+
 ```
 
 ## 4.Core Interfaces in the Collections Framework
