@@ -33,6 +33,7 @@ The Collections framework is a part of the `java.util` package and provides a we
   - Map (though it doesn’t extend Collection, it is a part of JCF).
 
 ### Benefits of Collections Framework
+
 - **Reduces Programming Effort:** Provides useful data structures and algorithms out of the box.
 - **Increases Performance:** High-performance implementations of data structures.
 - **Promotes Software Reuse:** With well-defined interfaces, it is easy to reuse and extend.
