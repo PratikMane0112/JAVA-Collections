@@ -140,7 +140,6 @@ The classes which implements interfaces like `List`, `Queue` and `Set`.
   - Preferred for adding & deleting.
 
 - Stack
-
   - `empty()` - Returns true if empty.
   - `push()` - Return ele in stack.
   - `pop()` - Return ele at top & then remove
